@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ClaytonDewey/fem-social-media-dashboard)
-- Live Site URL: [Add live site URL here](https://claytondewey.github.io/fem-social-media-dashboard/)
+- Solution URL: [github.com/ClaytonDewey/fem-social-media-dashboard](https://github.com/ClaytonDewey/fem-social-media-dashboard)
+- Live Site URL: [laytondewey.github.io/fem-social-media-dashboard/](https://claytondewey.github.io/fem-social-media-dashboard/)
 
 ## My process
 
